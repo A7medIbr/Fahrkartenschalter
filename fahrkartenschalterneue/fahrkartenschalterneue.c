@@ -2,6 +2,7 @@
 Datum:				20.02.2021
 Autor:				Ahmed Ibrahim
 Kurzbeschreibung:	Das Programm soll Fahrkartenbestellung ausgeben
+Nur damit Nader es kapiert!
 **********************************************************************************************************************************/
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
